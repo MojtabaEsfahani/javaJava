@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args){
 
     for(int decimalNumber=33;decimalNumber<256;decimalNumber++){
-        char AsciiChar = (char) decimalNumber;
-        System.out.println(decimalNumber+"   is   "+AsciiChar);
+        char asciiChar = (char) decimalNumber;
+        System.out.println(decimalNumber+"   is   "+asciiChar);
     }
     }
 }
